@@ -43,8 +43,7 @@
 	```
 	python main.py
 	```
-	*Expected Interface:*
-	<br><img src="lib/images/main_screen.png?raw=true">
+	
 4. **Generate RSA Keys**
    - If running first time, you need to generate RSA Keys.
    - Generate it using option no 5.
